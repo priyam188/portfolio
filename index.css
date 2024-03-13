@@ -469,7 +469,7 @@ opacity: 100%;
 
  /* ----------------CSS for small screen, making it responsive---------------- */
 
- @media only screen and (max-width:1080px){
+ @media only screen and (max-width:768px){
     #priyam1{
         height:50%;
         width:40%;
